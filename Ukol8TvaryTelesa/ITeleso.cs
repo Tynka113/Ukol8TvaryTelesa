@@ -8,11 +8,11 @@ namespace Ukol8TvaryTelesa
 {
     public interface ITeleso
     {
-        public void ZadejHodnoty();
+        void ZadejHodnoty();
 
-        public double VypocitejObjem();
+        double VypocitejObjem();
 
-        public double VypocitejPovrch();
+        double VypocitejPovrch();
 
     }
 }

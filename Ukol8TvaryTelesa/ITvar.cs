@@ -8,10 +8,10 @@ namespace Ukol8TvaryTelesa
 {
     public interface ITvar
     {
-        public void ZadejHodnoty();
+        void ZadejHodnoty();
 
-        public double VypocitejObvod();
+        double VypocitejObvod();
 
-        public double VypocitejObsah();
+        double VypocitejObsah();
     }
 }
